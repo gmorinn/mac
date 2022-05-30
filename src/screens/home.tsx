@@ -32,7 +32,7 @@ const Home: FC = () => {
                             Somme récoltée:
                         </h1>
                         <h1 className="font-mono text-2xl md:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
-                            250€
+                            300€
                         </h1>
                     </div>
                 </div>
